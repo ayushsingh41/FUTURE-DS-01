@@ -129,12 +129,6 @@ Future_DS_Sales_Dashboard/
 │
 └── README.md                   # Documentation
 
-🚀 How to Use
-
-Clone this repository:
-
-git clone https://github.com/ayushsingh41/Future_DS_01.git
-
 
 Open SalesDashboard.pbix in Power BI Desktop.
 
